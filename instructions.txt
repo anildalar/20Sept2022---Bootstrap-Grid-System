@@ -1,0 +1,29 @@
+BS Works on 12 Colum Grid system
+
+gutter:-
+The gap between the colums is called gutter
+
+
+row = horizontal line
+
+col = vertical line
+
+
+row = parent
+col = child
+
+<div class="row">
+		<div class="col"></div>
+</div>
+
+Blocking Technique
+
+html element = html tags
+
+Boostrap is all about classes
+
+BS col class is a flexible class
+
+fs = font size
+
+fw = font weight
